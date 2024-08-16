@@ -33,14 +33,14 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 - **Integration:** Document the process of importing data into Excel and ensuring consistency.
 - **Testing:** Test the integration and functionality of your Excel dashboard. -->
 
-### Part 6: Presentation
+<!-- ### Part 6: Presentation
 - **Pitch Deck:** Develop a 10-slide PowerPoint presentation as taught in the entrepreneurship module covering:
   - Project overview and SDG alignment.
   - Problem definition and significance.
   - Database design and schema.
   - Data analysis insights.
   - Excel dashboard demonstration.
-- **Delivery:** Present your pitch deck, demonstrating how your project addresses the SDG problem.
+- **Delivery:** Present your pitch deck, demonstrating how your project addresses the SDG problem. -->
 
 ## Deliverables
 - SDG problem definition document
